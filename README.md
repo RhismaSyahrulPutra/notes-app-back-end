@@ -33,7 +33,7 @@ Repository ini berisi kode sumber untuk Latihan Notes App Back-End dalam kursus 
 ## 🔧 Instalasi & Menjalankan Server
 1. **Clone repositori ini**
    ```sh
-   git clone https://github.com/yourusername/notes-app-back-end.git
+   git clone https://github.com/RhismaSyahrulPutra/notes-app-back-end
    cd notes-app-back-end
    ```
 2. **Install dependencies**
